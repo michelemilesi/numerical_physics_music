@@ -23,7 +23,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                WaveEffect
+                                com.github.michelemilesi.university.music.WaveEffect
                             </mainClass>
                         </manifest>
                     </archive>
